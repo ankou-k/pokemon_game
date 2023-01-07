@@ -1,7 +1,7 @@
 # pokemon_game
 
 Pokemon game where you can catch pokemons, train them and also engage in pokemon battles! <br/>
-Run the game files for each part. <br/>
+Run the Game_Files for each part. <br/>
 
 Part 1: <br/>
 Welcome to the world of pokemon! You can walk around a small area and catch pokemon! You can also see pokemon info in your pokedex!</br>
